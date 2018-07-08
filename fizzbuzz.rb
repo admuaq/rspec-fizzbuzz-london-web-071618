@@ -10,4 +10,5 @@ def fizzbuzz (int)
   #We expect fizzbuzz(4) to return nil.
   else int % 3 != 0 || int % 5 !=0
     puts "nil"
+  end
 end
