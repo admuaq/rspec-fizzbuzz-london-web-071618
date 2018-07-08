@@ -1,3 +1,9 @@
+#Define method fizzbuzz
+
+def fizzbuzz
+  
+end
+
 #We expect fizzbuzz(3) to return "Fizz"
 #We expect fizzbuzz(5) to return "Buzz"
 #We expect fizzbuzz(15) to return "FizzBuzz"
