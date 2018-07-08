@@ -1,5 +1,3 @@
-
-
 def fizzbuzz (int)
   #We expect fizzbuzz(15) to return "Fizzbuzz"
   if int % 3 == 0 && int % 5 == 0
@@ -11,7 +9,6 @@ def fizzbuzz (int)
   
   #We expect fizzbuzz(4) to return nil.
   else int % 3 != 0 || int % 5 !=0
-    return
 end
 
 #We expect fizzbuzz(5) to return "Buzz"
