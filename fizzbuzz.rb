@@ -10,8 +10,3 @@ def fizzbuzz (int)
   #We expect fizzbuzz(4) to return nil.
   else int % 3 != 0 || int % 5 !=0
 end
-
-#We expect fizzbuzz(5) to return "Buzz"
-
-#We expect fizzbuzz(15) to return "FizzBuzz"
-#We expect fizzbuzz(4) to return nil.
