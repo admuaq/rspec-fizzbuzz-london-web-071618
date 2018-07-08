@@ -1,7 +1,10 @@
 def fizzbuzz (int)
+  x = "Fizz"
+  y = "Buzz"
+  
   #We expect fizzbuzz(15) to return "Fizzbuzz"
   if int % 3 == 0 && int % 5 == 0
-    "FizzBuzz"
+    x + y 
   
   #We expect fizzbuzz(3) to return "Fizz"
   elsif int % 3 == 0
