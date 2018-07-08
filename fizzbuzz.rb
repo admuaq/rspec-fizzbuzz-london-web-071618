@@ -8,7 +8,7 @@ def fizzbuzz (int)
     "Fizz"
     
   #We expect fizzbuzz(5) to return "Buzz".
-  elsif int % 15 == 0
+  elsif int % 5 == 0
     "Buzz"
   
   #We expect fizzbuzz(4) to return nil.
